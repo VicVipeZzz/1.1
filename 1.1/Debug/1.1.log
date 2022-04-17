@@ -1,0 +1,5 @@
+﻿  1.1.cpp
+C:\Users\vikto\source\repos\1.1\1.1\1.1.cpp(10,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  IntPower.cpp
+  Generating Code...
+  1.1.vcxproj -> C:\Users\vikto\source\repos\1.1\Debug\1.1.exe
